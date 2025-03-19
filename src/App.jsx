@@ -1,10 +1,10 @@
 // App.js
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Layout from "./comps/Layout";
-import DashBoard from "./comps/DashBoard";
-import Products from "./comps/Products";
-import Category from "./comps/Category";
+import Layout from "./components/Layout";
+import DashBoard from "./components/DashBoard";
+import Products from "./components/Products";
+import Category from "./components/Category";
 
 function App() {
   return (
