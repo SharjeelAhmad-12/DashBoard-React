@@ -43,7 +43,7 @@ const SideBar = () => {
           WebkitTextFillColor: 'transparent',
         }}
       >
-        Maaz
+        Sharjeel
       </Typography>
 
       {/* Sidebar Navigation */}
